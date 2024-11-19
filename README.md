@@ -83,6 +83,16 @@ The image with the predicted mask status is displayed using matplotlib. If no fa
 ## **Testing the Model on a Single Image:**
 The final step involves testing the model on a specific image to verify its performance. The function test_single_image allows testing a single image by specifying its path and calling the display function.
 
+**Output:**
+
+![4](https://github.com/user-attachments/assets/d01077d3-7c45-4d26-9b63-ec5f42c3b31b)
+
+![5](https://github.com/user-attachments/assets/7e274302-1449-4629-83bd-3a9373c55d82)
+
+![6](https://github.com/user-attachments/assets/e9609acf-6a9c-4866-988b-346e37a24dee)
+
+![7](https://github.com/user-attachments/assets/2b78ae55-41fb-4802-a538-6296829376fe)
+
 
 ## Limitations and Future Enhancements
 ### Limitations
