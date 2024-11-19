@@ -1,9 +1,9 @@
 # Face Mask Detection System
 
 ## Overview
-The Face Mask Detection System is a deep learning-based solution to detect whether individuals are wearing masks in images or real-time video feeds. It uses convolutional neural networks (CNNs) for classification and MTCNN for face detection. This project is a practical implementation of AI in ensuring public health and safety, especially in the context of pandemics.
+The Face Mask Detection System is an AI-driven solution designed to identify whether individuals are wearing masks in images or real-time video streams. It leverages Convolutional Neural Networks (CNNs) for classification and MTCNN for accurate face detection. This project demonstrates the application of deep learning in promoting public health and safety, particularly during pandemics.
 
-The goal of this project is to develop a system that can classify images as either "face with mask" or "face without mask." The system uses a CNN model trained on a dataset of images that contain faces, some wearing masks and others not. The workflow includes loading and preprocessing images, training a CNN, and making predictions using the trained model.
+The primary objective of this project is to build a system that classifies images into two categories: "face with mask" and "face without mask." The system is powered by a CNN model trained on a dataset containing images of faces, both with and without masks. The process involves loading and preprocessing the images, training the CNN, and using the trained model to make predictions.
 
 ## Features
 - Real-time detection of face masks using webcam or images.
